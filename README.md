@@ -1,3 +1,3 @@
-"There are so many stars in the sky tonight... If we make a wish, it might come true"
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=F77962&width=435&lines=There+are+so+many+stars+in+the+sky.." alt="Typing SVG" /></a>
 <p align="center"> <img width="540" height="304" alt="96c3654885d620f0ffd743fa616581ff" src="https://github.com/user-attachments/assets/13debc0c-51f0-4ca8-9ab1-78c3d7a1fd7e" /> 
-"Does that saying really exist?"
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=11000&pause=4000&color=F77962&width=435&lines=if+we+make+a+wish+it+might+come+true" alt="Typing SVG" /></a>
