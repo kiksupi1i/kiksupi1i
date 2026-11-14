@@ -1,3 +1,4 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=7000&pause=70000&color=DC5A1C&width=435&lines=There+are+so+many+stars+in+the+sky.." alt="Typing SVG" /></a>
 <p align="center"> <img width="540" height="304" alt="96c3654885d620f0ffd743fa616581ff" src="https://github.com/user-attachments/assets/13debc0c-51f0-4ca8-9ab1-78c3d7a1fd7e" /> 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=14000&pause=70000&color=DC5A1C&width=435&lines=if+we+make+a+wish+it+might+come+true" alt="Typing SVG" /></a>
+<p align="center"><img width="613" height="354" alt="18fc5287a37ab9bbe23dcd77037a8bdb" src="https://github.com/user-attachments/assets/f4490c2d-6639-42ac-bc7f-45928314b5d0" />
